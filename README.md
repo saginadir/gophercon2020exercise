@@ -9,10 +9,10 @@ and tells us if we need a hoodie tomorrow.
 
 Example:
 
-    ❯ hoodieOrNoHoodie kiev                                                                                                         [17:21:52]
-    hoodie
+    ❯ hoodieOrNoHoodie kiev                                                                                                           hoodie
     
-    ❯ hoodieOrNoHoodie rio                                                                                                         [17:21:52]
-     no hoodie
-    
-Hint: You can get live weather forecast online via a REST call.
+    ❯ hoodieOrNoHoodie rio                                                                                                            no hoodie
+
+Come to our booth and show us your code.
+
+Hint: You can get live weather forecast online via a REST call
