@@ -9,9 +9,11 @@ and tells us if we need a hoodie tomorrow, or the day after, some other time in 
 
 Example:
 
-    ❯ hoodieOrNoHoodie kiev                                                                                                           hoodie
+    ❯ hoodieOrNoHoodie kiev                                                                                                           
+    hoodie
     
-    ❯ hoodieOrNoHoodie rio                                                                                                            no hoodie
+    ❯ hoodieOrNoHoodie rio                                                                                                           
+    no hoodie
 
 Come to our booth and show us your code.
 
